@@ -13,13 +13,13 @@ jobs:
     steps:
     - name: Download
       run: |
-        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://akilar.top/ -o akilar.top.jpg
-        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://blog.vanxnf.top/ -o blog.vanxnf.top.jpg
-        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://zfe.one/ -o zfe.one.jpg
-        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://blog.zhheo.com/ -o blog.zhheo.com.jpg
-        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://spoience.com/ -o spoience.com.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://sunhwee.com/ -o unhwee.com.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://chocolate.blog.csdn.net/ -o chocolate.blog.csdn.net.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://sitoi.cn/ -o sitoi.cn.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://hclonely.com/ -o hclonely.com.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://www.zyskys.com/ -o www.zyskys.com.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://jerryc.me/ -o jerryc.me.jpg
-        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://hexo.io/ -o hexo.io.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://yafine-blog.cn/ -o yafine-blog.cn.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://zhangshuqiao.org/ -o zhangshuqiao.org.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://www.paddylin.top/ -o www.paddylin.top.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://www.antmoe.com/ -o www.antmoe.com.jpg
@@ -66,7 +66,7 @@ jobs:
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://vino.run/ -o vino.run.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://chen-shang.top/ -o chen-shang.top.jpg
 
-        curl https://purge.jsdelivr.net/gh/Akilarlxh/ScreenShot@gh-pages/*.*
+        curl https://purge.jsdelivr.net/gh/Chocolate1999/ScreenShot@gh-pages/*.*
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
       with:
