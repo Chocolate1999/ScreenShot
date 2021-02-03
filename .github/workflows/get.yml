@@ -16,20 +16,22 @@ jobs:
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://sunhwee.com/ -o sunhwee.com.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://yangchaoyi.vip/ -o yangchaoyi.vip.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://sitoi.cn/ -o sitoi.cn.jpg
+
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://hclonely.com/ -o hclonely.com.jpg
-        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://www.zyskys.com/ -o zyskys.com.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://www.zyskys.com/ -o www.zyskys.com.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://yafine-blog.cn/ -o yafine-blog.cn.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://cungudafa.top/ -o cungudafa.top.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://cndrew.cn/ -o cndrew.cn.jpg
-        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://blog.clouder.im/ -o clouder.im.jpg
-        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://bwww.antmoe.com/ -o antmoe.com.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://blog.clouder.im/ -o blog.clouder.im.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://bwww.antmoe.com/ -o www.antmoe.com.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://jerryc.me/ -o jerryc.me.jpg
-        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://lovelijunyi.gitee.io/ -o lovelijunyi.gitee.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://lovelijunyi.gitee.io/ -o lovelijunyi.gitee.io.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://zfe.one/ -o zfe.one.jpg
-        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://nekodeng.gitee.io/ -o nekodeng.gitee.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://nekodeng.gitee.io/ -o nekodeng.gitee.io.jpg
+        
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://chocolate.blog.csdn.net/ -o chocolate.blog.csdn.net.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://honk.wang/ -o honk.wang.jpg
-        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://www.flexiston.com/ -o flexiston.com.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://www.flexiston.com/ -o www.flexiston.com.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://blog.shenshilei.site/ -o blog.shenshilei.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://ghclub.top/ -o ghclub.top.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://www.iyanxi.com/ -o iyanxi.com.jpg
@@ -41,12 +43,12 @@ jobs:
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://www.zihanzy.com/ -o zihanzy.com.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://dna049.com/ -o dna049.com.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://blog.noheart.cn/ -o noheart.cn.jpg
-        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://blog.ethanloo.top/ -o ethanloo.top.jpg
-        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://www.guobao0730.com/ -o guobao0730.com.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://blog.ethanloo.top/ -o blog.ethanloo.top.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://www.guobao0730.com/ -o www.guobao0730.com.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://yuanyuanzi.top/ -o yuanyuanzi.top.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://hesifan.top/ -o hesifan.top.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://blog.ethant.top/ -o ethant.top.jpg
-        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://www.nesxc.com/ -o nesxc.com.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://www.nesxc.com/ -o www.nesxc.com.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://mx142.cn/ -o mx142.cn.jpg
        
 
