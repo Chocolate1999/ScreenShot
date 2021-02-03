@@ -12,9 +12,9 @@ jobs:
 
     steps:
     - name: Download
-      run: |
+      run: 
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://sunhwee.com/ -o sunhwee.com.jpg
-        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://chocolate.blog.csdn.net/ -o chocolate.blog.csdn.net.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://yangchaoyi.vip/ -o yangchaoyi.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://sitoi.cn/ -o sitoi.cn.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://hclonely.com/ -o hclonely.com.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://www.zyskys.com/ -o www.zyskys.com.jpg
@@ -27,7 +27,28 @@ jobs:
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://lovelijunyi.gitee.io/ -o lovelijunyi.gitee.io.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://zfe.one/ -o zfe.one.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://nekodeng.gitee.io/ -o nekodeng.gitee.io.jpg
+        
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://chocolate.blog.csdn.net/ -o chocolate.blog.csdn.net.jpg
         curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://honk.wang/ -o honk.wang.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://www.flexiston.com/ -o www.flexiston.com.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://blog.shenshilei.site/ -o blog.shenshilei.site.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://ghclub.top/ -o ghclub.top.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://www.iyanxi.com/ -o www.iyanxi.com.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://justlovesmile.top/ -o justlovesmile.top.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://chuchendjs.github.io/ -o chuchendjs.github.io.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://jiubrc.com/ -o jiubrc.com.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://www.zyjblogs.cn/ -o www.zyjblogs.cn.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://wr0926.ml/ -o wr0926.ml.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://www.zihanzy.com/ -o www.zihanzy.com.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://dna049.com/ -o dna049.com.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://noheart.cn/ -o noheart.cn.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://blog.ethanloo.top/ -o blog.ethanloo.top.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://www.guobao0730.com/ -o www.guobao0730.com.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://yuanyuanzi.top/ -o yuanyuanzi.top.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://hesifan.top/ -o hesifan.top.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://ethant.top/ -o ethant.top.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://www.nesxc.com/ -o www.nesxc.com.jpg
+        curl https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://mx142.cn/ -o mx142.cn.jpg
        
 
         curl https://purge.jsdelivr.net/gh/Chocolate1999/ScreenShot@gh-pages/*.*
